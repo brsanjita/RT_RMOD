@@ -1,6 +1,3 @@
-Copyright © Prof. Anurag Srivastava, Gowtham Kandaperumal, Linli Jia, and Dr. Sanjeev Pannala.
-No image or information should be reproduced, transmitted, or copied without the prior agreement with Prof. Srivastava.
-
 INSTALLING THE VISUALIZATION TOOL 
 
 Run the following steps in the order specified:
