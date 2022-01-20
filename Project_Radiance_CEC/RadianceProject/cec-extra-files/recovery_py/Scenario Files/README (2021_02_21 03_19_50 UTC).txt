@@ -1,0 +1,8 @@
+edgestatus--0:backup 1:normal
+case0-- the normal case,with all backupline
+case1-- on the basis of the normal case, loss of Main Town+ newtown+ Power Creek
+
+case2-- base on case1, suppose after 1 hour newtown is restored
+
+case 3--base on case2, suppose after 2 hours maintown is recovered
+
